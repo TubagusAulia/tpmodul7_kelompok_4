@@ -1,0 +1,5 @@
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\TPMOD7\MainRunner\obj\Debug\net8.0\MainRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\TPMOD7\MainRunner\obj\Debug\net8.0\MainRunner.AssemblyInfoInputs.cache
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\TPMOD7\MainRunner\obj\Debug\net8.0\MainRunner.AssemblyInfo.cs
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\TPMOD7\MainRunner\obj\Debug\net8.0\MainRunner.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\TPMOD7\MainRunner\obj\Debug\net8.0\MainRunner.sourcelink.json

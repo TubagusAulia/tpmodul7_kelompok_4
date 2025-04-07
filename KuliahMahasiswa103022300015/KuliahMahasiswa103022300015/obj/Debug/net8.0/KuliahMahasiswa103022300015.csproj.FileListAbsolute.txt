@@ -1,0 +1,5 @@
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\KuliahMahasiswa103022300015\KuliahMahasiswa103022300015\obj\Debug\net8.0\KuliahMahasiswa103022300015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\KuliahMahasiswa103022300015\KuliahMahasiswa103022300015\obj\Debug\net8.0\KuliahMahasiswa103022300015.AssemblyInfoInputs.cache
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\KuliahMahasiswa103022300015\KuliahMahasiswa103022300015\obj\Debug\net8.0\KuliahMahasiswa103022300015.AssemblyInfo.cs
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\KuliahMahasiswa103022300015\KuliahMahasiswa103022300015\obj\Debug\net8.0\KuliahMahasiswa103022300015.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repo\TP mod 7\tpmodul7_kelompok_4\KuliahMahasiswa103022300015\KuliahMahasiswa103022300015\obj\Debug\net8.0\KuliahMahasiswa103022300015.sourcelink.json

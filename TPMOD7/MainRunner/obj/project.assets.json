@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DataMahasiswa103022300015/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DataMahasiswa103022300015.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataMahasiswa103022300015.dll": {}
+        }
+      },
+      "KuliahMahasiswa103022300015/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/KuliahMahasiswa103022300015.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KuliahMahasiswa103022300015.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataMahasiswa103022300015/1.0.0": {
+      "type": "project",
+      "path": "../../DataMahasiswa103022300015/DataMahasiswa103022300015/DataMahasiswa103022300015.csproj",
+      "msbuildProject": "../../DataMahasiswa103022300015/DataMahasiswa103022300015/DataMahasiswa103022300015.csproj"
+    },
+    "KuliahMahasiswa103022300015/1.0.0": {
+      "type": "project",
+      "path": "../../KuliahMahasiswa103022300015/KuliahMahasiswa103022300015/KuliahMahasiswa103022300015.csproj",
+      "msbuildProject": "../../KuliahMahasiswa103022300015/KuliahMahasiswa103022300015/KuliahMahasiswa103022300015.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DataMahasiswa103022300015 >= 1.0.0",
+      "KuliahMahasiswa103022300015 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Documents\\repo\\TP mod 7\\tpmodul7_kelompok_4\\TPMOD7\\MainRunner\\MainRunner.csproj",
+      "projectName": "MainRunner",
+      "projectPath": "C:\\Users\\user\\Documents\\repo\\TP mod 7\\tpmodul7_kelompok_4\\TPMOD7\\MainRunner\\MainRunner.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\repo\\TP mod 7\\tpmodul7_kelompok_4\\TPMOD7\\MainRunner\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\user\\Documents\\repo\\TP mod 7\\tpmodul7_kelompok_4\\DataMahasiswa103022300015\\DataMahasiswa103022300015\\DataMahasiswa103022300015.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\repo\\TP mod 7\\tpmodul7_kelompok_4\\DataMahasiswa103022300015\\DataMahasiswa103022300015\\DataMahasiswa103022300015.csproj"
+            },
+            "C:\\Users\\user\\Documents\\repo\\TP mod 7\\tpmodul7_kelompok_4\\KuliahMahasiswa103022300015\\KuliahMahasiswa103022300015\\KuliahMahasiswa103022300015.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\repo\\TP mod 7\\tpmodul7_kelompok_4\\KuliahMahasiswa103022300015\\KuliahMahasiswa103022300015\\KuliahMahasiswa103022300015.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
