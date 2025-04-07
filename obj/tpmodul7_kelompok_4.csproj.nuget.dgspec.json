@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj": {}
+    "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS 2\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj": {
+    "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS 2\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS 2\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
         "projectName": "tpmodul7_kelompok_4",
-        "projectPath": "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS 2\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS\\tpmodul7_kelompok_4\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Kuliah\\KPL - Konstruksi Perangkat Lunak\\TP-MOD-07-TUBAGUS 2\\tpmodul7_kelompok_4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
