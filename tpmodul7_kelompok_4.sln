@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpmodul7_kelompok_4", "tpmodul7_kelompok_4.csproj", "{BB4290B7-A565-4F38-82F3-9A92747339BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4290B7-A565-4F38-82F3-9A92747339BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4290B7-A565-4F38-82F3-9A92747339BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4290B7-A565-4F38-82F3-9A92747339BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4290B7-A565-4F38-82F3-9A92747339BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF847267-BEA3-449C-AAB2-627003E25801}
+	EndGlobalSection
+EndGlobal
