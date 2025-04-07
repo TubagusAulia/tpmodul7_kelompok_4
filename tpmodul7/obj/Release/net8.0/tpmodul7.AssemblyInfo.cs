@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("tpmodul7")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d164457b604bbb2d95ecc493e73a5ac8854f418")]
 [assembly: System.Reflection.AssemblyProductAttribute("tpmodul7")]
