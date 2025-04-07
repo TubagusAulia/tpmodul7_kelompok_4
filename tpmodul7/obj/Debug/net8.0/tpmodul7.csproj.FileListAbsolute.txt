@@ -1,0 +1,16 @@
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\tpmodul7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\tpmodul7.AssemblyInfoInputs.cache
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\tpmodul7.AssemblyInfo.cs
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\tpmodul7.csproj.CoreCompileInputs.cache
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\tpmodul7.sourcelink.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\bin\Debug\net8.0\tpmodul7.exe
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\bin\Debug\net8.0\tpmodul7.deps.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\bin\Debug\net8.0\tpmodul7.runtimeconfig.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\bin\Debug\net8.0\tpmodul7.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\bin\Debug\net8.0\tpmodul7.pdb
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\tpmodul7.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\refint\tpmodul7.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\tpmodul7.pdb
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\tpmodul7.genruntimeconfig.cache
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\ref\tpmodul7.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\bin\Debug\net8.0\tp7_1_103022300100.json
