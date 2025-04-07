@@ -14,3 +14,4 @@ C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\
 C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\tpmodul7.genruntimeconfig.cache
 C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\obj\Debug\net8.0\ref\tpmodul7.dll
 C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\bin\Debug\net8.0\tp7_1_103022300100.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul7\tpmodul7\bin\Debug\net8.0\tp7_2_103022300100.json

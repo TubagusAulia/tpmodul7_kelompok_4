@@ -34,15 +34,4 @@ namespace tpmodul7
             return result;
         }
     }
-
-    public static class MainClass
-    {
-        public static void Main(String[] args)
-        {
-            DataMahasiswa_103022300100 mahasiswa = JsonHelper.ReadJson<DataMahasiswa_103022300100>("tp7_1_103022300100.json");
-            Console.WriteLine($"Nama Lengkap: {mahasiswa.nama.depan} {mahasiswa.nama.belakang}");
-            Console.WriteLine($"NIM: {mahasiswa.nim}");
-            Console.WriteLine($"Fakultas: {mahasiswa.fakultas}");
-        }
-    }
 }
